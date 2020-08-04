@@ -1,8 +1,20 @@
-
+library(RCurl)
 
 ### Filmes nacionais lançados 1995-2018
 
-df <- read.csv2("E:\\arquivos rstudio\\cinema\\filmes lancados.csv",head = F, sep = ";" )
+
+#data_lancados <- getURL("https://github.com/viniciusbgodinho/cinema_brasileiro/blob/master/filmes%20lancados.csv")
+
+
+
+
+
+library(RCurl)
+data_lancados <- getURL("https://raw.githubusercontent.com/viniciusbgodinho/cinema_brasileiro/master/filmes%20lancados.csv", encoding = "UTF-8")
+df <- read.csv(text=data_lancados,head = F, sep = ";" , dec=',')
+
+
+
 
 df <- df[-(1:2),]
 
@@ -50,7 +62,8 @@ df_table$Renda <- as.numeric(df_table$Renda)
 
 ###filmes mais de 500 mil
 
-df_2 <- read.csv2("E:\\arquivos rstudio\\cinema\\filmes_500_k.csv",head = F, sep = ";" )
+data_500k <- getURL("https://raw.githubusercontent.com/viniciusbgodinho/cinema_brasileiro/master/filmes_500_k.csv", encoding = "UTF-8")
+df_2 <- read.csv(text=data_500k,head = F, sep = ";" )
 
 
 
@@ -90,7 +103,7 @@ ui <- bootstrapPage(
                "Cinema Brasileiro", id="nav",
                
                
-               tabPanel("Filmes Brasileiros Lançados Comercialmente (1995-2018)",
+               tabPanel("Filmes Lançados Comercialmente (1995-2018)",
                         
                         sidebarLayout(
                             sidebarPanel(
@@ -123,7 +136,7 @@ ui <- bootstrapPage(
     
 ) ),
 
-tabPanel("Filmes Brasileiros com mais de 500 mil Espectadores (1970-2018)",
+tabPanel("Filmes com mais de 500 mil Espectadores (1970-2018)",
          
          sidebarLayout(
              sidebarPanel(
