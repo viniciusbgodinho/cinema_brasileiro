@@ -1,0 +1,39 @@
+Fontes: 
+"ANCINE - SALIC (Sistema de Apoio às Leis de Incentivo à Cultura) e ANCINE - SADIS (Sistema de Acompanhamento da Distribuição em Salas de Exibição), Filme B e Apuração Ancine,"
+
+"Dados de renda, público e salas:"
+"2018: ANCINE / SADIS (Sistema de Acompanhamento da Distribuição em Salas de Exibição) - Dados compilados em 22/02/2019,"
+"2016 e 2017: ANCINE / SADIS (Sistema de Acompanhamento da Distribuição em Salas de Exibição) - Dados compilados em 02/04/2018,"
+"2009 a 2015: ANCINE / SADIS (Sistema de Acompanhamento da Distribuição em Salas de Exibição) - Dados compilados em 22/12/2017,"
+"1995 a 2008: Filme B,"
+
+"Elaboração: Coordenação de Edição e Publicação de Conteúdo - CEC/SAM/ANCINE, Publicado em 02/09/2019,"
+
+"Observações:"
+"1, Para um filme ser considerado brasileiro, o mesmo deve possuir o Certificado de Produto Brasileiro (CPB),"
+"2, Para um melhor alinhamento com o mercado internacional, as obras registradas na ANCINE com distribuição da Paramount, que atua no Brasil também comercializando obras dos estúdios Universal, foram desagregadas entre as duas empresas, seguindo o padrão de distribuição no exterior,"
+"3, Nos dados a partir de 2009, os dados de renda e público são relativos ao ano de lançamento do filme acrescido de pré-estreias e exibições em anos posteriores,"
+"4, Nos dados a partir de 2009, a distribuidora é a empresa que realizou a distribuição do filme na semana de seu lançamento,"
+"5, As UF's seguem a ordem das colunas de Empresas Produtoras,"
+"6, ND: Dados não disponíveis até a data de compilação dos dados,"
+"7, Os valores disponíveis nesse arquivo são valores correntes do ano de referência,"
+
+"Notas:"
+
+"1,      Empresa Produtora Brasileira Majoritária: é a empresa produtora brasileira com maior percentual de cota patrimonial, de acordo com dados disponíveis no campo Produtor do Certificado de Produto Brasileiro (CPB),"
+"a,   Nos casos em que a informação sobre cota patrimonial não estava disponível no CPB foram inseridas todas as produtoras listadas no campo “produtor” em ordem alfabética;"
+"b,   Nos casos em que não havia a informação de produtor no CPB, a empresa requerente foi considerada como produtora majoritária brasileira;"
+"c,    Nos casos de mais uma produtora majoritária, as empresas foram colocadas em ordem alfabética,"
+"d,   Nos casos em que não havia CPB, foi considerada a informação disponível no Salic;"
+"e,   Nos casos em que não havia CPB e Salic, foi considerada a informação publicada anteriormente no arquivo Listagem de Filmes Brasileiros 1995 a 2016 no OCA,"
+
+"2,      Empresa Produtora Minoritária Brasileira: é a empresa produtora brasileira com menor percentual de cota patrimonial, de acordo com dados disponíveis no campo Produtor do Certificado de Produto Brasileiro (CPB),"
+"a,   Em caso de mais de uma empresa produtora minoritária, as empresas foram colocadas em ordem decrescente de percentual patrimonial, ou seja, aparece primeiro a empresa que tem o maior percentual;"
+"b,   Nos casos em que o percentual era igual, as empresas foram colocadas em ordem alfabética,"
+
+"3,      Para o nome das empresas produtoras foi considerado o nome de mercado das mesmas, Em caso de dúvidas, quando disponível, foi consultado o trailer do filme para definição do nome da empresa,"
+
+"4,      Para definição da UF da empresa produtora foi considerado o endereço fiscal da mesma, de acordo com o Registro Econômico do Sistema Ancine Digital (SAD),"
+"a,   No caso das empresas produtoras sem registro no SAD, a informação de UF foi verificada no Cadastro de CNPJ da Receita Federal: http://www,receita,fazenda,gov,br/pessoajuridica/cnpj/cnpjreva/cnpjreva_solicitacao2,asp"
+
+"5,      Nos casos que eram pessoas físicas no campo “produtor”, caso a pessoa tivesse registro na Ancine com informação de UF, esta foi inserida nos dados, Nos casos em que não havia registro na Ancine, não há informação de UF,"

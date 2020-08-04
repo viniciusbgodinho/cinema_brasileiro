@@ -1,0 +1,516 @@
+Listagem de Filmes Brasileiros com mais de 500.000 Espectadores 1970 a 2018;;;;;;;
+;;;;;;;
+#;Título da obra;Direção;Produtora;UF;Estreia;Ano de Lançamento;Público
+1;"""Nada a Perder""";Alexandre Avancini;Record Entretenimento;SP;mar/18;2018;12,184,373
+2;"""Os Dez Mandamentos - O Filme""";Alexandre Avancini;Rede Record de Televisão;SP;jan/16;2016;11,305,479
+3;"""Tropa de Elite 2""";José Padilha;Zazen Produções Audiovisuais;RJ;out/10;2010;11,146,723
+4;"""Dona Flor e seus Dois Maridos""";Bruno Barreto;LC Barreto;RJ;nov/76;1976;10,735,524
+5;"""Minha mãe é uma peça 2""";César Rodrigues;DiamondBack;RJ;dez/16;2016;9,234,363
+6;"""A Dama do Lotação""";Neville de Almeida;Regina Filmes;SP;abr/78;1978;6,509,134
+7;"""Se Eu Fosse Você 2""";Daniel Filho;Total Entertainment;RJ;jan/09;2009;6,112,851
+8;"""O Trapalhão nas Minas do Rei Salomão""";J.B. Tanko;J.B.Tanko Filmes;RJ;ago/77;1977;5,786,226
+9;"""Lúcio Flávio, o Passageiro da Agonia""";Hector Babenco;HB Filmes;SP;nov/77;1977;5,401,325
+10;"""Dois Filhos de Francisco: a História de Zezé Di Camargo & Luciano""";Breno Silveira;Conspiração Filmes;RJ;ago/05;2005;5,319,677
+11;"""Os Saltimbancos Trapalhões""";J.B. Tanko;J.B.Tanko Filmes;RJ;dez/81;1981;5,218,478
+12;"""Os Saltimbancos Trapalhões""";Adriano Stuart;Renato Aragão Produções Artísticas;RJ;dez/78;1978;5,089,970
+13;"""Os Trapalhões na Serra Pelada""";J.B. Tanko;J.B.Tanko Filmes;RJ;dez/82;1982;5,043,350
+14;"""O Cinderelo Trapalhão""";Adriano Stuart;Renato Aragão Produções Artísticas;RJ;jun/79;1979;5,028,893
+15;"""De Pernas pro Ar 2""";Roberto Santucci ;Morena Filmes Ltda.;RJ;dez/12;2012;4,846,273
+16;"""O Casamento dos Trapalhões (1)""";José Alvarenga Jr;Renato Aragão Produções Artísticas;RJ;dez/88;1988;4,779,027
+17;"""Coisas Eróticas """;Raffaele Rossi, L.Callachio;Empresa Cinematográfica Rossi;SP;jul/82;1982;4,729,484
+18;"""Carandiru""";Hector Babenco;HB Filmes;SP;abr/03;2003;4,693,853
+19;"""Os Vagabundos Trapalhões""";J.B. Tanko;J.B.Tanko Filmes;RJ;jun/82;1982;4,631,914
+20;"""Minha Mãe é uma Peça""";André Pellenz;Migdal Produções cinematográficas Ltda;RJ;jun/13;2013;4,600,145
+21;"""O Trapalhão no Planalto dos Macacos""";J.B. Tanko;J.B.Tanko Filmes;RJ;dez/76;1976;4,565,267
+22;"""Simbad, o Marujo Trapalhão""";J.B. Tanko;J.B.Tanko Filmes;RJ;jun/76;1976;4,406,200
+23;"""O Rei e os Trapalhões""";Adriano Stuart;Renato Aragão Produções Artísticas;RJ;jan/80;1980;4,240,757
+24;"""Os Três Mosquiteiros Trapalhões""";Adriano Stuart;Renato Aragão Produções Artísticas;RJ;jun/80;1980;4,221,062
+25;"""O Incrível Monstro Trapalhão""";Adriano Stuart;Renato Aragão Produções Artísticas;RJ;jan/81;1981;4,212,244
+26;"""Lua de Cristal (1)""";Tizuka Yamazaki;Dreamvision;RJ;jun/90;1990;4,178,165
+27;"""Nosso Lar""";Wagner de Assis;Cinética Filmes e Produções;RJ;set/10;2010;4,060,304
+28;"""A Princesa Xuxa e os Trapalhões (1)""";José Alvarenga Jr;Renato Aragão Produções Artísticas;RJ;jun/89;1989;4,018,764
+29;"""Até que a Sorte nos Separe 2""";Roberto Santucci;Gullane Filmes;SP;dez/13;2013;3,978,191
+30;"""O Cangaceiro Trapalhão""";Daniel Filho;Renato Aragão Produções Artísticas;RJ;jun/83;1983;3,831,443
+31;"""Loucas pra Casar""";Roberto Santucci;Glaz Entretenimento;RJ;jan/15;2015;3,726,547
+32;"""Se eu Fosse Você""";Daniel Filho;Total Entertainment;RJ;jan/06;2006;3,644,956
+33;"""Os Trapalhões e o Rei do Futebol""";Carlos Manga;Renato Aragão Produções Artísticas;RJ;jun/86;1986;3,616,696
+34;"""De Pernas pro Ar""";Roberto Santucci;Morena Filmes;RJ;dez/10;2011;3,506,552
+35;"""Jeca Macumbeiro""";Pio Zamuner e Mazzaropi;PAM Filmes;SP;fev/75;1975;3,468,728
+36;"""Eu te Amo""";Arnaldo Jabor;Flávia Filmes;RJ;abr/81;1981;3,457,154
+37;"""Jeca Contra oCapeta""";Pio Zamuner e Mazzaropi;PAM Filmes;SP;fev/76;1976;3,428,860
+38;"""Até que a Sorte nos Separe""";Roberto Santucci Filho;Gullane ;SP;out/12;2012;3,417,510
+39;"""Chico Xavier""";Daniel Filho;Lereby Produções;RJ;abr/10;2010;3,413,231
+40;"""O Trapalhão na Ilha do Tesouro""";J.B. Tanko;J.B.Tanko Filmes;RJ;jun/75;1975;3,375,090
+41;"""Cidade de Deus""";Fernando Meirelles;O2 Filmes Curtos;SP;ago/02;2002;3,370,871
+42;"""Até que a sorte nos separe 3""";"Roberto Santucci; Marcelo Braz";Gullane Entretenimento;SP;dez/15;2015;3,335,667
+43;"""Vai que Cola - O Filme""";Cesar Eduardo Rodrigues;Conspiração Filmes Entretenimento 3º Milênio;RJ;out/15;2015;3,307,837
+44;"""Jecão, um Fofoqueiro no Céu""";Pio Zamuner e Mazzaropi;PAM Filmes;SP;jun/77;1977;3,306,926
+45;"""Os Trapalhões na Terra dos Monstros (1)""";Flávio Migliacio;Renato Aragão Produções Artísticas;RJ;dez/89;1989;3,200,000
+46;"""Xica da Silva""";Carlos Diegues;Terra Filmes;RJ;set/76;1976;3,183,582
+47;"""Lisbela e o Prisioneiro""";Guel Arraes;Natasha Enterprises;RJ;ago/03;2003;3,174,643
+48;"""Meu Passado me Condena""";Julia Rezende;Atitude Produções e Empreendimentos Ltda;RJ;out/13;2013;3,140,771
+49;"""O Menino da Porteira""";Jeremias Moreira;Topázio Cinematográfica;SP;mar/77;1977;3,131,878
+50;"""Aluga-se Moças""";Deni Cavalcanti;Madial Filmes;SP;nov/81;1981;3,082,925
+51;"""Cazuza - o Tempo Não Para""";Sandra Werneck e Walter Carvalho;Lereby Produções;RJ;jun/04;2004;3,082,522
+52;"""Olga""";Jayme Monjardim;Nexus Cinema e Vídeo;RJ;ago/04;2004;3,078,030
+53;"""Os Normais""";José Alvarenga Jr.;Missão Impossível Cinco Produções Artísticas;RJ;out/03;2003;2,996,467
+54;"""Robin Hood e o Trapalhão da Floresta""";J.B. Tanko;J.B.Tanko Filmes;RJ;jul/74;1974;2,978,767
+55;"""Cilada.com""";José Alvarenga Jr.;Casé Filmes Ltda.;RJ;jul/11;2011;2,959,460
+56;"""Independência ou Morte""";Carlos Coimbra;Cinedistri;SP;set/72;1972;2,924,494
+57;"""Os Heróis Trapalhões""";José Alvarenga Jr e Wilton Franco;Renato Aragão Produções Artísticas;RJ;jun/88;1988;2,905,721
+58;"""Jeca e seu Filho Preto""";Pio Zamuner e Berilo Faccio;PAM Filmes;SP;abr/78;1978;2,872,881
+59;"""Super Xuxa Contra o Baixo Astral (1)""";Ana Penido, David So;Dreamvision;RJ;dez/88;1988;2,816,000
+60;"""Roberto Carlos a 300 Km por Hora""";Roberto Farias;Produções Cinematográficas R. F. Farias;RJ;dez/71;1971;2,785,922
+61;"""Vai que Dá Certo""";Maurício Farias;Fraiha Produções de Eventos e Editora Ltda;RJ;mar/13;2013;2,729,340
+62;"""Um Caipira em Bariloche""";Pio Zamuner e Mazzaropi;PAM Filmes;SP;jan/73;1973;2,720,345
+63;"""O Grande Xerife""";Pio Zamuner;PAM Filmes;SP;jan/72;1972;2,693,271
+64;"""Os Fantasmas Trapalhões""";J.B. Tanko;Renato Aragão Produções Artísticas;RJ;jun/87;1987;2,689,380
+65;"""Xuxa e os Duendes""";Paulo Sérgio Almeida e Rogério Gomes;Diler & Associados;RJ;dez/01;2001;2,657,091
+66;"""Meu Passado Me Condena 2""";Julia Rezende;Atitude Produções e Empreendimentos;RJ;jul/15;2015;2,639,935
+67;"""Roberto Carlos e o Diamante Cor de Rosa""";Roberto Farias;Produções Cinematográficas R. F. Farias;RJ;jul/70;1970;2,639,174
+68;"""A Viúva Virgem""";Pedro Carlos Rovai;Sincrocine;RJ;abr/72;1972;2,635,962
+69;"""Amada Amante""";Cláudio Cunha;Kinema Filmes;SP;jul/78;1978;2,610,538
+70;"""Os Trapalhões no Auto da Compadecida""";Roberto Farias;Renato Aragão Produções Artísticas;RJ;jun/88;1988;2,610,371
+71;"""Os Farofeiros""";Roberto Santucci ;Camisa Listrada/Panorama Filmes;RJ;mar/18;2018;2,604,658
+72;"""E Aí, Comeu?""";Felipe Joffily;Casé Filmes  ;RJ;jun/12;2012;2,578,599
+73;"""Aladim e a Lâmpada Maravilhosa""";J.B. Tanko;Jarbas Barbosa Produções Cinematográficas;RJ;jan/74;1974;2,573,241
+74;"""Uma Escola Atrapalhada (1)""";Antonio Rangel;Renato Aragão Produções Artísticas;RJ;jun/90;1990;2,571,095
+75;"""Betão Ronca Ferro""";Geraldo Miranda;PAM Filmes;SP;jan/71;1971;2,568,475
+76;"""Os Penetras""";Andrew Waddington;Conspiração Filmes S/A;RJ;nov/12;2012;2,548,441
+77;"""Carrossel, O Filme""";Alexandre Boury, Mauricio Eça;Paris Produções Cinematográficas;RJ;jul/15;2015;2,537,628
+78;"""Carrossel 2 - O Sumiço de Maria Joaquina""";Mauricio Eça;Paris Produções;SP;jul/16;2016;2,525,328
+79;"""Pixote, a Lei do mais Fraco""";Hector Babenco;HB Filmes;SP;set/80;1980;2,520,468
+80;"""Os Trapalhões e o Mágico de Oroz""";Vitor Lustosa e Dedé Santana;Renato Aragão Produções Artísticas;RJ;jun/84;1984;2,465,898
+81;"""A Filha dos Trapalhões""";Dedé Santana;Renato Aragão Produções Artísticas;RJ;dez/84;1984;2,462,034
+82;"""Tropa de Elite""";José Padilha;Zazen Produções Audiovisuais;RJ;out/07;2007;2,417,754
+83;"""O Bem Dotado Homem de Itu""";José Miziara;Cinedistri;SP;jun/78;1978;2,409,162
+84;"""Xuxa Popstar""";Paulo Sérgio Almeida e Tizuka Yamasaki;Diler & Associados;RJ;dez/00;2000;2,394,326
+85;"""Fala sério, mãe!""";Pedro Vasconcelos;Camisa Listrada/Focus Films;RJ;dez/17;2017;2,385,118
+86;"""A Mulher Invisível""";Cláudio Torres;Conspiração Filmes;RJ;jun/09;2009;2,353,646
+87;"""A Banda das Velhas Virgens""";Pio Zamuner e Mazzaropi;PAM Filmes;SP;jul/79;1979;2,345,553
+88;"""Maria, Mãe do Filho de Deus""";Moacyr Góes;Diler & Associados;RJ;dez/02;2002;2,332,873
+89;"""Portugal, minha Saudade""";Amácio Mazzaropi;PAM Filmes;SP;jan/74;1974;2,325,650
+90;"""Xuxa e os Duendes 2""";Paulo Sérgio Almeida e Rogério Gomes;Diler & Associados;RJ;dez/02;2002;2,301,152
+91;"""O Candidato Honesto""";Roberto Santucci;Camisa Listrada / PANORAMA FILMES;MG / RJ;out/14;2014;2,237,776
+92;"""O Caso Cláudia""";Miguel Borges;Artenova;RJ;ago/79;1979;2,220,116
+93;"""Sexo, Amor e Traição""";Jorge Fernando;Total Entertainment;RJ;jan/04;2004;2,219,423
+94;"""Xuxa Abracadabra""";Moacyr Góes;Diler & Associados;RJ;dez/03;2003;2,214,481
+95;"""Giselle""";Victor di Mello;Vidya Produções;RJ;nov/80;1980;2,206,682
+96;"""Os Normais 2""";José Alvarenga Jr.;Globo Filmes;RJ;ago/09;2009;2,202,640
+97;"""O Trapalhão na Arca de Noé""";Del Rangel;Renato Aragão Produções Artísticas;RJ;dez/83;1983;2,181,017
+98;"""Bruna Surfistinha""";Marcus Baldini;TV Zero Cinema Ltda.;RJ;fev/11;2011;2,176,999
+99;"""Como É Boa a nossa Empregada""";Victor di Mello e Ismar Porto;Vidya Produções;RJ;mai/73;1973;2,163,036
+100;"""O Auto da Compadecida""";Guel Arraes;Globo Filmes;RJ;set/00;2000;2,157,166
+101;"""O Cortiço""";Francisco Ramalho Jr;Argos Filmes;SP;abr/78;1978;2,131,643
+102;"""Menino do Rio""";Antonio Calmon;LC Barreto;RJ;jan/82;1982;2,120,903
+103;"""A Noite das Taras""";David Cardoso, John Doo e Ody Fraga;Dacar Produções Cinematográficas;SP;jun/80;1980;2,107,829
+104;"""Meu Nome não É Johnny""";Mauro Lima;Atitude Produções e Empreendimentos;RJ;jan/08;2008;2,099,294
+105;"""Xuxa Requebra""";Tizuka Yamazaki;Diler & Associados;RJ;dez/99;1999;2,074,461
+106;"""O Verdadeiro Amante Sexual """;Levi Salgado;Levi Salgado Produções  Cinematográficas;SP;1989;1989;2,053,495
+107;"""A Grande Família - o Filme""";Maurício Farias;Globo Filmes;RJ;jan/07;2007;2,035,576
+108;"""Mulher Objeto""";Silvio de Abreu;Cinearte Produções Cinematográficas;SP;set/81;1981;2,031,520
+109;"""O Roubo das Calcinhas""";Braz Chediak, Sandoval Aguiar;Sincrocine;RJ;set/75;1975;2,017,063
+110;"""Assalto ao Banco Central""";Marcos Paulo;Total Entertainment;RJ;jul/11;2011;1,966,736
+111;"""Convite ao Prazer""";Walter Hugo Khoury;Galante Filmes;SP;abr/80;1980;1,944,273
+112;"""Os 7 Gatinhos""";Neville de Almeida;Cineville;RJ;mar/80;1980;1,938,136
+113;"""Bonitinha, mas Ordinária""";Braz Chediak;Sincrocine;RJ;jan/81;1981;1,933,710
+114;"""Ainda Agarro essa Vizinha""";Pedro Carlos Rovai;Sincrocine;RJ;jul/74;1974;1,922,478
+115;"""Eu (1)""";Walter Hugo Khoury;Cinearte Produções Cinematográficas;SP;ago/87;1987;1,910,000
+116;"""Os Caras de Pau em o Misterioso Roubo do Anel""";Felipe Joffily;Casé Filmes Ltda;RJ;dez/14;2014;1,892,337
+117;"""O Mundo Mágico dos Trapalhões""";Silvio Tendler;Renato Aragão Produções Artísticas;RJ;jun/81;1981;1,892,117
+118;"""Divã""";José Alvarenga Jr.;Total Entertainment;RJ;abr/09;2009;1,866,403
+119;"""Motorista sem Limites""";Milton Barragan;Teixeirinha Produções Artísticas;RS;ago/70;1970;1,808,513
+120;"""Os Homens são de Marte... E é para lá que eu vou""";Marcus Baldini;BIÔNICA CINEMA E TV LTDA.ME;SP;mai/14;2014;1,793,239
+121;"""O Beijo da Mulher Aranha""";Hector Babenco;HB Filmes;SP;mar/86;1986;1,778,728
+122;"""S. O. S. Mulheres ao Mar""";Cris D'Amato;ANANÃ PRODUÇÕES, EVENTOS E ASSESSORIA DE MARKETING LTDA;RJ;mar/14;2014;1,776,579
+123;"""Iracema, a Virgem dos Lábios de Mel""";Carlos Coimbra;CSC Produções Cinematográficas;RJ;jun/79;1979;1,771,498
+124;"""Didi, o Cupido Trapalhão""";Paulo Aragão e Alexandre Boury;Diler & Associados;RJ;abr/03;2003;1,758,579
+125;"""Luz del Fuego""";David Neves;Morena Produtores de Arte;RJ;mar/82;1982;1,751,930
+126;"""Os Trapalhões no Reino da Fantasia""";Dedé Santana;Renato Aragão Produções Artísticas;RJ;jun/85;1985;1,751,709
+127;"""Toda Nudez Será Castigada""";Arnaldo Jabor;Produções Cinematográficas R. F. Farias;RJ;dez/72;1972;1,737,151
+128;"""É fada!""";Cris D'Amato;Lereby;RJ;out/16;2016;1,722,069
+129;"""Crô - O Filme""";Bruno Barreto;Filmes do Equador;RJ;nov/13;2013;1,716,774
+130;"""Somos tão Jovens""";Antonio Carlos da Fontoura;Canto Claro Produções Artísticas;RJ;mai/13;2013;1,715,763
+131;"""Eu Sei que Vou te Amar""";Arnaldo Jabor;Sagitarius Produções Cinematográficas;RJ;abr/86;1986;1,713,801
+132;"""Sonho de Verão""";Paulo Sérgio Almeida e Rogério Gomes;Dreamvision;RJ;dez/90;1990;1,700,000
+133;"""Ela Tornou-se Freira""";Pereira Dias;Teixeirinha Produções Artísticas;RS;fev/72;1972;1,689,470
+134;"""Uma Mulher Provocante/Ivone, a Rainha do Pecado """;Francisco Cavalcanti;Platéia Filmes;SP;1984;1984;1,671,264
+135;"""Simão, o Fantasma Trapalhão""";Paulo Aragão;Renato Aragão Produções Artísticas;RJ;dez/98;1998;1,658,136
+136;"""Os parças""";Halder Catunda Gomes;Formata Produções;SP;nov/17;2017;1,657,843
+137;"""Ali Babá e os 40 Ladrões""";Vítor Lima;Jarbas Barbosa Produções Cinematográficas;RJ;fev/72;1972;1,641,372
+138;"""S.O.S Mulheres ao mar 2""";Cristiane D´Amato;Migdal Produções Cinematográficas;RJ;out/15;2015;1,638,272
+139;"""Deus é Brasileiro""";Cacá Diegues;Rio Vermelho Filmes;RJ;jan/03;2003;1,635,212
+140;"""Gente Fina É Outra Coisa""";Antonio Calmon;Sincrocine;RJ;set/77;1977;1,611,723
+141;"""Central do Brasil""";Walter Salles;Videofilmes Produções Artísticas;RJ;abr/98;1998;1,593,967
+142;"""Jeca e a Égua Milagrosa""";Pio Zamuner e Mazzaropi;PAM Filmes;SP;set/80;1980;1,564,196
+143;"""Mulher Mulher""";Jean Garret;Maspe Filmes;SP;ago/79;1979;1,508,225
+144;"""Bye Bye Brasil""";Carlos Diegues;LC Barreto;RJ;fev/80;1980;1,488,812
+145;"""Muita Calma Nessa Hora""";Felipe Joffily;Idéias Ideais Design & Produções Ltda. / Casé Filmes Ltda.;RJ;nov/10;2010;1,485,498
+146;"""Faroeste Caboclo""";René Sampaio;De Felippes Filmes E Produções Ltda;RJ;mai/13;2013;1,469,772
+147;"""Gonzaga - De Pai para Filho""";Breno Silveira;Conspiração Filmes S/A;RJ;out/12;2012;1,460,494
+148;"""A Partilha""";Daniel Filho;Lereby Produções;RJ;jun/01;2001;1,449,411
+149;"""Muita calma nessa hora 2""";Felipe Joffily;Casé Filmes Ltda / GLOBO COMUNICAÇÃO E PARTICIPAÇÕES S.A.;RJ;jan/14;2014;1,429,862
+150;"""Lua de Mel e Amendoim""";Fernando de Barros;Sincrocine;RJ;ago/71;1971;1,413,830
+151;"""Nos Embalos de Ipanema""";Antonio Calmon;Sincrocine;RJ;dez/78;1978;1,410,153
+152;"""O Seminarista""";Geraldo Santos Pereira;Lynx Filmes;SP;dez/76;1976;1,401,795
+153;"""A Vida de Jesus Cristo""";William Cobbett;Willliam Cobbett Produções;RJ;abr/71;1971;1,390,903
+154;"""Histórias que nossas Babás não Contavam""";Anibal Massaini;Cinedistri;SP;nov/79;1979;1,384,954
+155;"""Ariella""";John Herbert;Sincrocine;RJ;set/80;1980;1,383,596
+156;"""Eles não Usam Black-Tie""";Leon Hirszman;Saga Filmes;RJ;set/81;1981;1,382,253
+157;"""O Casal""";Daniel Filho;Produções Cinematográficas R. F. Farias;RJ;set/75;1975;1,370,706
+158;"""Polícia Federal - A lei é para todos""";Marcelo Antunez;New Group Cine & TV / Raconto Filmes;RJ;set/17;2017;1,360,480
+159;"""O Enterro da Cafetina""";Alberto Pieralisi;Magnus Filmes;RJ;ago/71;1971;1,355,674
+160;"""Barra Pesada""";Reginaldo Farias;Produções Cinematográficas R. F. Farias;RJ;out/77;1977;1,355,130
+161;"""Bacalhau""";Adriano Stuart;Omega Filmes;SP;mai/76;1976;1,352,217
+162;"""Já não se Faz Amor como Antigamente""";Anselmo Duarte, John Herbert, Adriano Stuart;Cinedistri;SP;ago/76;1976;1,346,825
+163;"""O Marginal""";Carlos Manga;Cinedistri;SP;dez/74;1974;1,343,160
+164;"""A Ilha dos Paqueras""";Fauzi Mansur;INF/Titanus;SP;out/70;1970;1,335,132
+165;"""Xuxa e o Tesouro da Cidade Perdida""";Moacyr Góes;Diler & Associados;RJ;dez/04;2004;1,331,652
+166;"""Bete Balanço""";Lael Rodrigues;CPC;RJ;jul/84;1984;1,327,377
+167;"""As Massagistas Profissionais""";Carlo Mossy;Vidya Produções;RJ;jun/76;1976;1,325,132
+168;"""O Concurso""";Pedro Vasconcelos;Latinamerica Entretenimento Eireli;SP;jul/13;2013;1,320,102
+169;"""Ninguém Segura essas Mulheres""";Anselmo Duarte, José Miziara, Jece Valadão, Harry Zalkowistch;Cinedistri;SP;mai/76;1976;1,318,476
+170;"""A Virgem e o Machão""";José Mojica Marins;Maspe Filmes;SP;jul/74;1974;1,315,651
+171;"""Cada um Dá o que Tem""";Silvio de Abreu, John Herbert, Adriano Stuart;Cinedistri;SP;jun/75;1975;1,310,605
+172;"""Xuxa em o Mistério de Feiurinha""";Tizuka Yamazaki;Conspiração Filmes;RJ;dez/09;2009;1,307,135
+173;"""Fome de Sexo """;Ody Fraga;Maspe Filmes;SP;ago/82;1982;1,300,021
+174;"""Pra Frente, Brasil""";Roberto Farias;Produções Cinematográficas R. F. Farias;RJ;mar/82;1982;1,298,055
+175;"""Carlota Joaquina, Princesa do Brazil""";Carla Camurati;Elimar Produções Artísticas;RJ;1995;1995;1,286,000
+176;"""Os Machões""";Reginaldo Farias;Produções Cinematográficas R. F. Farias;RJ;ago/72;1972;1,284,633
+177;"""Depravação""";Elio Vieira de Araujo;Cinemundi;SP;nov/80;1980;1,281,130
+178;"""Memórias de um Gigolô""";Alberto Pieralisi;Magnus Filmes;RJ;ago/70;1970;1,277,932
+179;"""Milionário e José Rico na Estrada da Vida""";Nelson Pereira dos Santos;Villafilmes Produções;RJ;nov/80;1980;1,276,979
+180;"""A Dona da História""";Daniel Filho;Lereby Produções;RJ;out/04;2004;1,271,415
+181;"""O Mistério de Robin Hood (1)""";José Alvarenga Jr;Renato Aragão Produções Artísticas;RJ;dez/90;1990;1,269,658
+182;"""Vestido pra Casar""";Gerson Sanginitto;Raconto Produções Artísticas;RJ;ago/14;2014;1,258,720
+183;"""Banana Split""";Paulo Sérgio Almeida e Rogério Gomes;Pole Video Comunicações;RJ;1988;1988;1,257,683
+184;"""A Super Fêmea""";Anibal Massaini;Cinedistri;SP;nov/73;1973;1,252,431
+185;"""Os Trapalhões no Rabo do Cometa (1)""";Dedé Santana;Renato Aragão Produções Artísticas;RJ;jan/86;1986;1,250,000
+186;"""O Palhaço""";Selton Mello;Bananeira Filmes;RJ;out/11;2011;1,242,880
+187;"""Sinal Vermelho: as Fêmeas""";Fauzi Mansur;Davilart Produções;SP;nov/72;1972;1,241,913
+188;"""D.P.A. - Detetives do Prédio Azul""";André Pellenz;Paris Produções;SP;jul/17;2017;1,222,898
+189;"""Quando as Mulheres Paqueram""";Victor di Mello;Vidya Produções;RJ;fev/72;1972;1,218,525
+190;"""O Noviço Rebelde""";Tizuka Yamazaki;Renato Aragão Produções Artísticas;RJ;dez/97;1997;1,214,163
+191;"""O Homem do Futuro""";Cláudio Torres;Conspiração Filmes S/A;RJ;set/11;2011;1,211,083
+192;"""Eu Dou o que elas Gostam""";Braz Chediak;Sincrofilmes;RJ;jul/75;1975;1,202,643
+193;"""Leila Diniz (2)""";Luiz Carlos Lacerda;Ponto Filmes;RJ;mai/87;1987;1,200,000
+194;"""Na Trilha da Justiça""";Milton Barragan;Teixeirinha Produções Artísticas;RS;abr/77;1977;1,197,698
+195;"""Qualquer Gato""";Tomas Portella;Tietê Produções Cinematográficas;RJ;jun/11;2011;1,194,628
+196;"""Rock Estrela""";Lael Rodrigues;CPC;RJ;fev/86;1986;1,192,604
+197;"""Tudo Por um Pop Star""";Bruno Garotti;Panorâmica;RJ;out/18;2018;1,187,570
+198;"""Amor Bandido""";Bruno Barreto;LC Barreto;RJ;out/78;1978;1,186,750
+199;"""As Mulheres que Fazem Diferente""";Cláudio MacDowell, Lenine Otoni, Adnor Pitanga;Di Mello Produções  Cinematográficas;RJ;nov/74;1974;1,179,631
+200;"""Parahyba Mulher Macho""";Tizuka Yamazaki;CPC;RJ;set/83;1983;1,177,397
+201;"""Os Trapalhões e a Árvore da Juventude (1)""";José Alvarenga Jr;Renato Aragão Produções Artísticas;RJ;jun/91;1991;1,174,274
+202;"""Aventuras da Turma da Mônica""";Maurício de Sousa;Maurício de Sousa Produções Cinematográficas;SP;dez/82;1982;1,172,020
+203;"""O Marido Virgem""";Saul Lachtermarcher;Bellfilmes Produções Cinematográficas;RJ;jun/74;1974;1,167,772
+204;"""Amor Estranho Amor""";Walter Hugo Khoury;Cinearte Produções Cinematográficas;SP;out/82;1982;1,160,909
+205;"""O Super Manso""";Ary Fernandes;Cinedistri;SP;nov/74;1974;1,160,233
+206;"""A Banana Mecânica""";Braz Chediak;Sincrocine;RJ;set/74;1974;1,157,590
+207;"""Coisas Eróticas 2 """;Raffaele Rossi;Empresa Cinematográfica Rossi;SP;jul/84;1984;1,153,835
+208;"""Eros""";Walter Hugo Khoury;Enzo Barone Filmes/Serrador Filmes;SP;nov/81;1981;1,149,495
+209;"""A Ilha do desejo""";Jean Garret;Dacar Produções Cinematográficas;SP;mai/75;1975;1,144,160
+210;"""Se Segura, Malandro""";Hugo Carvana;Alter Filmes;RJ;ago/78;1978;1,140,879
+211;"""Mato sem Cachorro""";Pedro Amorim;TITÂNIO PRODUÇÕES ARTÍSTICAS;RJ;out/13;2013;1,134,563
+212;"""Costinha e o King Mong""";Alcino Diniz;Commander Filmes;RJ;jul/77;1977;1,134,168
+213;"""Luz, Cama, Ação""";Cláudio MacDowell;Sincrocine;RJ;mar/76;1976;1,129,706
+214;"""O Descarte""";Anselmo Duarte;Cinedistri;SP;dez/73;1973;1,125,511
+215;"""Tô ryca!""";Pedro Antônio;Glaz Entretenimento;RJ;set/16;2016;1,121,570
+216;"""O Quatrilho""";Fábio Barreto;Filmes do Equador / Produções Cinematográficas LC Barreto;RJ;out/95;1995;1,117,754
+217;"""O Prisioneiro do Sexo""";Walter Hugo Khoury;Galante Filmes;SP;abr/79;1979;1,117,743
+218;"""Memórias do Cárcere""";Nelson Pereira dos Santos;LC Barreto;RJ;jun/84;1984;1,113,125
+219;"""Sábado Alucinante""";Cláudio Cunha;Kinema Filmes;SP;abr/79;1979;1,111,446
+220;"""Mágoa de Boiadeiro""";Jeremias Moreira Filho;Topázio Cinematográfica;SP;jul/78;1978;1,107,019
+221;"""Bacanal - Ménage à Trois""";Antonio Meliande;CAM Filmes;SP;mar/81;1981;1,086,996
+222;"""Com Licença eu Vou à Luta""";Lui Farias;Produções Cinematográficas R. F. Farias;RJ;abr/86;1986;1,084,631
+223;"""Café na Cama""";Alberto Pieralisi;Alberto Pieralisi Filmes;RJ;abr/74;1974;1,081,392
+224;"""A Estrela Sobe""";Bruno Barreto;LC Barreto;RJ;out/74;1974;1,076,885
+225;"""Brasil Bom de Bola""";Carlos Niemeyer;Canal 100 Filmes;RJ;jan/71;1971;1,074,115
+226;"""O Leito da Mulher Amada""";Egídio Eccio;Brasecran;SP;set/74;1974;1,073,468
+227;"""Um Suburbano Sortudo""";Roberto Santucci;Camisa Listrada;RJ;fev/16;2016;1,070,434
+228;"""O Donzelo""";Stepan Wohl;Allegro Filmes;RJ;fev/71;1971;1,069,563
+229;"""Orgia das Libertinas""";Ary Fernandes;Procitel Filmes;SP;jun/81;1981;1,066,465
+230;"""As Borboletas Também Amam""";J.B. Tanko;J.B.Tanko Filmes;RJ;abr/79;1979;1,049,563
+231;"""Eva, o Princípio do Sexo """;José Carlos Barbosa;E. C. Filmes;SP;abr/83;1983;1,043,643
+232;"""As Secretárias que Fazem de Tudo""";Alberto Pieralisi;Phoenix Filmes;RJ;abr/75;1975;1,038,291
+233;"""O Anjo Loiro""";Alfredo Sternheim;Brasecran;SP;nov/73;1973;1,036,990
+234;"""Paixão de um Homem""";Egídio Eccio;E. C. Filmes;SP;nov/72;1972;1,033,912
+235;"""Isto É Pelé""";Luiz Carlos Barreto;LC Barreto;RJ;mai/74;1974;1,029,452
+236;"""Didi, o Caçador de Tesouros""";Marcus Figueiredo;Diler & Associados;RJ;jan/06;2006;1,024,732
+237;"""Teixeirinha a Sete Provas""";Milton Barragan;Teixeirinha Produções Artísticas;RS;nov/72;1972;1,020,530
+238;"""Dezenove Mulheres e um Homem""";David Cardoso;Dacar Produções Cinematográficas;SP;mai/77;1977;1,018,727
+239;"""Cassy Jones, o Magnífico Sedutor""";Luiz Sérgio Person;Lauper Filmes;SP;dez/72;1972;1,016,128
+240;"""Atrapalhando a Suate""";Vitor Lustosa e Dedé Santana;Demuza Cinema;RJ;dez/83;1983;1,012,654
+241;"""A Força dos Sentidos""";Jean Garret;Kinema Filmes;SP;mai/80;1980;1,012,532
+242;"""O Sexo Mora ao Lado""";Ody Fraga;Brasecran;SP;set/75;1975;1,011,976
+243;"""Costinha, o Rei da Selva""";Alcino Diniz;Commander Filmes;RJ;fev/76;1976;1,007,977
+244;"""Xuxa Gêmeas""";Jorge Fernando;Diler & Associados;RJ;dez/06;2006;1,007,490
+245;"""Amadas e Violentadas""";Jean Garret;Dacar Produções Cinematográficas;SP;mar/76;1976;1,004,447
+246;"""Como Era Gostoso o meu Francês""";Nelson Pereira dos Santos;LC Barreto;RJ;jan/72;1972;991,138
+247;"""O Inseto do Amor""";Fauzi Mansur;J. Dávila Produções;SP;jun/80;1980;990,220
+248;"""Ascenção e Queda de um Paquera""";Victor Di Mello;Bennio Produções Cinematográficas;RJ;set/70;1970;990,078
+249;"""O Sexualista""";Egídio Eccio;Grupo Internacional Cinematográfico;SP;out/76;1976;989,846
+250;"""Rio Babilônia""";Neville de Almeida;CPC;RJ;mar/83;1983;987,459
+251;"""Mulheres e Cavalos """;Juan Bajon;Brasil Internacional Cinematográfica;SP;1987;1987;985,517
+252;"""Eu Transo, Ela Transa""";Pedro Camargo;Produções Cinematográficas R. F. Farias;RJ;nov/72;1972;985,054
+253;"""O Bom Marido""";Antonio Calmon;Sincrocine;RJ;set/78;1978;983,283
+254;"""Didi quer ser criança""";Alexandre Boury e Reynaldo Boury;Diler & Associados;RJ;jul/04;2004;982,175
+255;"""A Batalha de Guararapes""";Paulo Thiago;Cia. Produtora Sagitarius;RJ;set/72;1972;979,034
+256;"""O Casamento de Romeu e Julieta""";Bruno Barreto;Filmes do Equador;RJ;mar/05;2005;969,278
+257;"""A Filha do Padre""";Tony Vieira;Mauri de Oliveira Produtora e Distribuidora de Filmes;SP;mai/75;1975;967,771
+258;"""Irmãos de Fé""";Moacyr Góes;Diler & Associados;RJ;set/04;2004;966,021
+259;"""Orfeu""";Cacá Diegues;Rio Vermelho Filmes;RJ;abr/99;1999;961,961
+260;"""Pobre João""";Pereira Dias;Teixeirinha Produções Artísticas;RS;abr/75;1975;956,475
+261;"""Alemão""";José Eduardo Belmonte;CAMISA TREZE CULTURAL S/S LTDA;SP;mar/14;2014;955,841
+262;"""O Bem Amado""";Guel Arraes;Natasha Enterprises;RJ;jul/10;2010;955,393
+263;"""Linda de morrer""";Cristiane D´Amato;Migdal Produções Cinematográficas;RJ;ago/15;2015;948,542
+264;"""Carmen, a Cigana""";Pereira Dias;Teixeirinha Produções Artísticas;RS;set/76;1976;945,947
+265;"""Emanuelle Tropical""";J. Marreco;Empresa Cinematográfica Haway;SP;set/77;1977;945,916
+266;"""Som, Amor e Curtição""";J.B. Tanko;Produções Cinematográficas R. F. Farias;RJ;mar/72;1972;941,732
+267;"""Milagre, o Poder da Fé""";Hércules Breseghelo;B. H. Produções Cinematográficas;SP;mar/79;1979;941,517
+268;"""A Gostosa da Gafieira""";Roberto Machado;Roberto Machado Produções Cinematográficas;RJ;abr/81;1981;940,676
+269;"""Bonga, o Vagabundo""";Victor Lima;Herbert Richers Produções Cinematográficas;RJ;mar/71;1971;939,790
+270;"""As Aventuras de Agamenon, o Repórter""";Victor Lopes;Tambellini Filmes;RJ;jan/12;2012;937,980
+271;"""A Dama da Zona""";Ody Fraga;Kinema Filmes;SP;nov/79;1979;936,735
+272;"""De todas as Maneiras """;Mário Lúcio/Marcelo Motta;Empresa Cinematográfica Rossi;SP;set/83;1983;928,352
+273;"""Minha Vida em Marte""";Suzana Garcia;Capri Produções;RJ;nov/18;2018;925,411
+274;"""Vai que dá certo 2""";Maurício Farias;Fraiha Produções;RJ;jan/16;2016;923,426
+275;"""Traídas pelo Desejo""";Tony Vieira;Mauri de Oliveira Produtora e Distribuidora de Filmes;SP;jun/76;1976;921,264
+276;"""Internato das Meninas Virgens""";Osvaldo de Oliveira;Produções Cinematográficas Galante;SP;jun/77;1977;920,067
+277;"""A B... Profunda """;Álvaro Moya (Gerard Dominó);Empresa Cinematográfica Haway;SP;abr/84;1984;911,818
+278;"""Delícias do Sexo""";Carlos Imperial;Imperial Comunicações;RJ;mai/81;1981;911,491
+279;"""Zoando na Tv""";José Alvarenga Jr.;Globo Filmes / Angélica Produções Artísticas / Lereby Produções;RJ;1999;1999;911,394
+280;"""Soninha toda Pura""";Aurélio Teixeira;Jarbas Barbosa Produções Cinematográficas;RJ;mai/71;1971;906,525
+281;"""Ensaio Sobre a Cegueira""";Fernando Meirelles;O2 Produções Artísticas e Cinematográficas;SP;set/08;2008;904,514
+282;"""O Padre que Queria Pecar""";Lenine Otoni;Bennio Produções Cinematográficas;RJ;mai/75;1975;890,450
+283;"""Detetives do Prédio Azul 2 - O Mistério Italiano""";Vivianne Jundi;Paris Produções;SP;dez/18;2018;884,775
+284;"""O Beijo no Asfalto""";Bruno Barreto;LC Barreto;RJ;abr/81;1981;880,334
+285;"""Um Marido Contagiante""";Carlos Alberto de Souza Barros;CASB Produções Cinematográficas;RJ;dez/77;1977;877,988
+286;"""Nos Tempos da Vaselina""";José Miziara;Galante Filmes;SP;jun/79;1979;876,760
+287;"""A Difícil Vida Fácil""";Alberto Pieralisi;Magnus Filmes;RJ;jul/72;1972;864,954
+288;"""Guerra Conjugal""";Joaquim Pedro de Andrade;Filmes do Serro;RJ;mai/75;1975;860,355
+289;"""Como Consolar Viúvas""";José Mojica Marins;Maspe Filmes;SP;nov/76;1976;854,503
+290;"""Tainá - uma Aventura na Amazônia""";Tânia Lamarca e Sérgio Bloch;Tietê Produções Cinematográficas;RJ;jan/01;2001;853,210
+291;"""Presídio de Mulheres Violentadas""";Osvaldo de Oliveira/ Luiz Castellini;Produções Cinematográficas Galante;SP;fev/77;1977;851,118
+292;"""Torturadas Pelo Desejo""";Tony Vieira;Mauri de Oliveira Produtora e Distribuidora de Filmes;SP;fev/77;1977;849,751
+293;"""Lula, o Filho do Brasil""";Fábio Barreto;Filmes do Equador;RJ;jan/10;2010;848,733
+294;"""Idílio Proibido""";Konstantin Thaczenko;Cinedistri;SP;mai/71;1971;847,231
+295;"""Contos Eróticos""";Joaquim Pedro de Andrade, Roberto Santos, Eduardo Escorel, Roberto Palmari;Lynx Filmes;SP;set/79;1979;843,110
+296;"""O Primo Basílio""";Daniel Filho;Lereby Produções;RJ;ago/07;2007;838,726
+297;"""Joelma 23º Andar""";Clery Cunha;Souza Lima Produções Cinematográficas;SP;abr/80;1980;837,936
+298;"""Acquaria""";Flávia Moraes;Spectra Mídia Produções e Comércio;SP;dez/03;2003;837,695
+299;"""Jorge um Brasileiro""";Paulo Thiago;Encontro Produções Cinematográficas;RJ;fev/89;1989;835,743
+300;"""O Predileto""";Roberto Palmari;Lynx Filmes;SP;dez/75;1975;834,892
+301;"""Com as Calças na Mão""";Carlo Mossy;Vidya Produções Cinematográficas;RJ;nov/75;1975;829,650
+302;"""Viagem ao Céu da Boca """;Roberto Mauro;Magnus Filmes;RJ;set/83;1983;829,555
+303;"""Excitação""";Jean Garret;Maspe Filmes;SP;mai/77;1977;828,857
+304;"""Um Virgem na Praça""";Roberto Machado;Roberto Machado Produções Cinematográficas;RJ;out/73;1973;827,201
+305;"""Aventuras com Tio Maneco""";Flávio Migliacio;Produções Cinematográficas R. F. Farias;RJ;jul/71;1971;826,045
+306;"""Eu Matei Lúcio Flávio""";Antonio Calmon;Magnus Filmes;RJ;out/79;1979;824,976
+307;"""Um Pistoleiro Chamado Papaco """;Mário Vaz Filho;Olympus Films;SP;1986;1986;823,533
+308;"""Amante Latino""";Pedro Carlos Rovai;Sincrocine;RJ;out/79;1979;823,382
+309;"""Pura como um Anjo... Será Virgem?""";Raffaele Rossi;Panther's Cine Som;SP;abr/76;1976;817,861
+310;"""Sob o Domínio do Sexo""";Tony Vieira;Brasecran;SP;ago/73;1973;816,984
+311;"""Confissões de Adolescente - o Filme""";Daniel Filho e Cris D’Amato;Lereby Produções Ltda;RJ;jan/14;2014;816,971
+312;"""Pesadelo Sexual de um Virgem""";Roberto Mauro;NTM Produtora e Distribuidora de Filmes;SP;mar/76;1976;815,697
+313;"""Qualquer Gato Vira-lata 2""";Roberto Santucci Filho / Marcelo Antunes Braz;Tietê Produções Cinematográficas;RJ;jun/15;2015;807,827
+314;"""Missão Matar""";Alberto Pieralisi;Taurus Filmes;SP;mar/72;1972;806,471
+315;"""A Carne""";J. Marreco;Omega Filmes;SP;set/75;1975;804,187
+316;"""Marvada Carne""";André Klotzel;Superfilmes;SP;mar/85;1985;802,451
+317;"""O Mulherengo""";Fauzi Mansur;Program Films;SP;mai/77;1977;801,110
+318;"""A Dama do Cine Shangai (2)""";Guilherme Almeida Prado;Star Filmes;SP;1987;1987;800,000
+319;"""Amante Muito Louca""";Denoy de Oliveira;Lestepe Produções Cinematográficas;RJ;dez/73;1973;799,871
+320;"""As Cangaceiras Eróticas""";Roberto Mauro;Servicine;SP;ago/74;1974;798,832
+321;"""Uma Mulata Para Todos""";Roberto Machado;Roberto Machado Produções Cinematográficas;RJ;mar/75;1975;795,992
+322;"""O Rei da Noite""";Hector Babenco;HB Filmes;SP;dez/75;1975;795,802
+323;"""A Praia do Pecado""";Roberto Mauro;E. C. Distribuidora e Importadora Cinematográfica;SP;out/77;1977;795,210
+324;"""Tropeiro Velho""";Milton Barragan;Teixeirinha Produções Artísticas;RS;mai/79;1979;793,605
+325;"""As Meninas Querem, os Coroas Podem""";Osvaldo de Oliveira;Produções Cinematográficas Galante;SP;set/76;1976;789,974
+326;"""Tainá 2 - a Aventura Continua""";Mauro Lima;Tietê Produções Cinematográficas;RJ;jan/05;2005;788,442
+327;"""O Homem da Capa Preta""";Sérgio Resende;Morena Filmes;RJ;abr/86;1986;787,733
+328;"""A Quadrilha do Perna Dura""";Pereira Dias;Teixeirinha Produções Artísticas;RS;mar/76;1976;782,268
+329;"""Pornô! """;David Cardoso/ Luiz Castellini;Dacar Produções Cinematográficas;SP;jun/81;1981;779,850
+330;"""O Jeca e o Bode""";Ary Fernandes;Procitel Filmes;SP;jul/72;1972;777,796
+331;"""Tim Maia""";Mauro Lima;RT COMÉRCIO E SERVIÇOS DE CRIAÇÃO E PRODUÇÃO DE OBRAS COM DIREITOS AUTORAIS LTDA - EPP.;SP;out/14;2014;777,699
+332;"""Zuzu Angel""";Sérgio Rezende;Toscana Audiovisual;RJ;ago/06;2006;774,318
+333;"""Pensionato de Mulheres""";Clery Cunha;Cinedistri;SP;mai/75;1975;774,176
+334;"""Quando as Mulheres Querem Provas""";Victor Di Mello;Bennio Produções Cinematográficas;RJ;mar/75;1975;772,692
+335;"""O Trapalhão e a Luz Azul""";Paulo Aragão e Alexandre Boury;Renato Aragão Produções Artísticas;RJ;1999;1999;771,831
+336;"""Oh! Que Delícia de Patrão""";Alberto Pieralisi;Vidya Produções Cinematográficas;RJ;nov/84;1984;770,448
+337;"""Um Certo Capitão Rodrigo""";Anselmo Duarte;Cinedistri;SP;mai/71;1971;762,167
+338;"""Sedução""";Fauzi Mansur;Brasecran;SP;dez/74;1974;761,946
+339;"""Salve-se Quem Puder""";J.B. Tanko;J.B.Tanko Filmes;RJ;jan/73;1973;761,065
+340;"""Corpo Devasso""";Alfredo Sternheim;Dacar Produções Cinematográficas;SP;nov/80;1980;754,899
+341;"""As Amantes de um Canalha""";Tony Vieira;Mauri de Oliveira Produtora e Distribuidora de Filmes;SP;set/77;1977;754,107
+342;"""Gaijin - Caminhos da Liberdade""";Tizuka Yamazaki;CPC;RJ;mar/80;1980;751,422
+343;"""Exorcista de Mulheres""";Tony Vieira;Mauri de Oliveira Produtora e Distribuidora de Filmes;SP;jul/74;1974;748,791
+344;"""Vítimas do Prazer""";Cláudio Cunha;Kinema Filmes;SP;mai/77;1977;746,294
+345;"""A Ilha dos Prazeres Proibidos""";Carlos Reichenbach;Galante Filmes;SP;jan/79;1979;745,294
+346;"""O Cavaleiro Didi e a Princesa Lili""";Marcus Figueiredo;Diler & Associados;RJ;dez/06;2006;742,340
+347;"""Meus 15 Anos""";Caroline Fioratti;Paris Produções;SP;jun/17;2017;742,137
+348;"""Garota Dourada""";Antonio Calmon;LC Barreto;RJ;dez/83;1983;739,234
+349;"""Marília e Marina""";Luiz Fernando Goulart;Terra Filmes;RJ;jul/76;1976;736,213
+350;"""Possuídas pelo Pecado""";Jean Garret;Dacar Produções Cinematográficas;SP;out/76;1976;733,811
+351;"""Condenadas pelo Sexo""";Ismar Porto;Brasecran;SP;dez/71;1971;728,364
+352;"""Vai Trabalhar, Vagabundo""";Hugo Carvana;Alter Filmes;RJ;dez/73;1973;728,164
+353;"""Castelo Rá-Tim-Bum, o Filme""";Cao Hamburger;A.F. Cinema e Vídeo;SP;1999;1999;725,329
+354;"""A Noite dos Bacanais""";Fauzi Mansur;Fauzi A. Mansur Cinematográfica;SP;abr/82;1982;722,951
+355;"""Bordel, Noites Proibidas""";Osvaldo de Oliveira;Galante Filmes;SP;jun/80;1980;714,539
+356;"""O Tempo e o Vento""";Jayme Monjardin;Nexus Cinema e Vídeo;SP;set/13;2013;711,515
+357;"""Me Deixa de Quatro""";Fauzi Mansur;J. Dávila Produções;SP;set/81;1981;709,369
+358;"""Essa Gostosa Brincadeira a Dois""";Victor Di Mello;Di Mello Produções Cinematográficas / Vidya Produções Cinematográficas;RJ;out/74;1974;706,976
+359;"""Kuarup""";Rui Guerra;Grapho Produções Artísticas;RJ;mai/89;1989;703,939
+360;"""A Filha de Emmanuele""";Osvaldo de Oliveira;Galante Filmes;SP;dez/80;1980;701,433
+361;"""O Gosto do Pecado""";Cláudio Cunha;Cláudio Cunha Produções Cinematográficas;SP;dez/80;1980;699,891
+362;"""As Seis Mulheres de Adão """;David Cardoso;Dacar Produções Cinematográficas;SP;nov/81;1981;699,769
+363;"""O Casamento""";Arnaldo Jabor;Produções Cinematográficas R. F. Farias;RJ;dez/75;1975;699,584
+364;"""Macho e Fêmea""";Ody Fraga;Grupo Internacional Cinematográfico;SP;ago/74;1974;696,284
+365;"""Eu, tu, eles""";Andrucha Waddington;Conspiração Filmes;RJ;ago/00;2000;695,682
+366;"""Mágoas de Caboclo""";Ary Fernandes;Procitel Filmes;SP;nov/70;1970;694,451
+367;"""Terror e Êxtase""";Antonio Calmon;Arte Nova Filmes;RJ;ago/80;1980;691,213
+368;"""As Audaciosas""";Mozael Silveira;Brasecran;SP;jan/76;1976;691,146
+369;"""Casseta & Planeta - a Taça do Mundo é Nossa""";Lula Buarque de Hollanda;Conspiração Filmes;RJ;nov/03;2003;690,709
+370;"""Inocência""";Walter Lima Junior;LC Barreto;RJ;mai/83;1983;689,439
+371;"""Um Varão Entre as Mulheres""";Victor Di Mello;Bennio Produções Cinematográficas;RJ;fev/75;1975;685,779
+372;"""Noite em Chamas""";Jean Garret;Maspe Filmes;SP;set/78;1978;684,357
+373;"""Os Violentadores""";Tony Vieira;Mauri de Oliveira Produtora e Distribuidora de Filmes;SP;abr/78;1978;683,842
+374;"""O Círculo do Prazer """;Mário Vaz Filho;Antonio Meliande Produções Cinematógráficas;SP;fev/84;1984;679,809
+375;"""Pra quem Fica Tchau""";Reginaldo Farias;Produções Cinematográficas R. F. Farias;RJ;jan/71;1971;674,768
+376;"""O Vendedor de Sonhos""";Jayme Monjardim;Filmland Internacional;SP;dez/16;2016;673,242
+377;"""Os Devassos""";Carlos Alberto de Souza Barros;CASB Produções Cinematográficas;RJ;mar/72;1972;672,987
+378;"""Gaúcho de Passo Fundo""";Pereira Dias;Teixeirinha Produções Artísticas;RS;set/78;1978;671,028
+379;"""Secas e Molhadas""";Mozael Silveira;Brasecran;SP;mai/75;1975;670,679
+380;"""O Menino da Porteira""";Jeremias Moreira;Jere Moreira Produtora de Filmes e Video;SP;mar/09;2009;669,287
+381;"""Sabendo Usar não Vai Faltar""";Francisco Ramalho Jr/Sidney Paiva Lopes;Kinoart Filmes;SP;nov/76;1976;666,268
+382;"""Um namorado para minha mulher""";Júlia Rezende;Paris Produções;SP;set/16;2016;665,999
+383;"""O Homem que Copiava""";Jorge Furtado;Casa de Cinema de Porto Alegre;RS;jun/03;2003;664,651
+384;"""Roberta, a Moderna Gueixa do Sexo""";Raffaele Rossi;E. C. Distribuidora e Importadora Cinematográfica;SP;mar/78;1978;664,390
+385;"""Uma Verdadeira História de Amor""";Fauzi Mansur;Indústria Nacional de Filmes;SP;out/71;1971;658,680
+386;"""Guerra de Canudos""";Sérgio Rezende;Morena Filmes;RJ;out/97;1997;655,016
+387;"""O Coronel e o Lobisomem""";Maurício Farias;Natasha Enterprises;RJ;out/05;2005;654,983
+388;"""Tara - Prazeres Proibidos""";Luiz Castellini;Fauzi A. Mansur Cinematográfica;SP;nov/79;1979;654,000
+389;"""Os Pilantras da Noite""";Tony Vieira;Mauri de Oliveira Produtora e Distribuidora de Filmes;SP;dez/75;1975;653,554
+390;"""Índia, a Filha do Sol""";Fábio Barreto;LC Barreto;RJ;ago/82;1982;651,141
+391;"""A Menina e o Cavalo """;Conrado Sanchez;Ouro Nacional;SP;mar/84;1984;650,103
+392;"""Escola Penal de Meninas Violentadas""";Antonio Meliande;Produções Cinematográficas Galante;SP;dez/77;1977;648,544
+393;"""O Guerreiro Didi e a Ninja Lili""";Marcus Figueiredo;Diler & Associados;RJ;jun/08;2008;647,555
+394;"""Ipanema Toda Nua""";Líbero Miguel;Servicine;SP;fev/72;1972;647,490
+395;"""Copa de Elite""";Vitor Brandt;Glaz Entretenimento;RJ;abr/14;2014;646,224
+396;"""As Mulheres Sempre Querem Mais""";Roberto Mauro;Servicine;SP;abr/75;1975;646,003
+397;"""Uma Quase Dupla""";Marcus Baldini;Biônica Filmes/Paris Produções;SP;jul/18;2018;644,115
+398;"""Os Amores da Pantera""";Jece Valadão;Magnus Filmes;RJ;set/77;1977;638,235
+399;"""Gringo, o Último Matador / Gringo, o Matador Erótico""";Tony Vieira;Edward Freund Produções Cinematográficas;SP;fev/73;1973;636,685
+400;"""Lição de Amor""";Eduardo Escorel;LC Barreto;RJ;nov/75;1975;632,084
+401;"""As Loucuras de um Sedutor""";Alcino Diniz;Phoenix Filmes;RJ;jun/77;1977;631,771
+402;"""Se meu Dólar Falasse""";Carlos Coimbra;Cinedistri;SP;out/70;1970;630,597
+403;"""As Moças daquela Hora""";Paulo Porto;Ventania Filmes;RJ;ago/74;1974;628,213
+404;"""Desquitadas em Lua de Mel""";Victor Di Mello;Di Mello Produções Cinematográficas;RJ;ago/76;1976;626,792
+405;"""Nem as Enfermeiras Escapam""";André José Adler;Phoenix Filmes;RJ;jan/77;1977;625,174
+406;"""O Flagrante""";Reginaldo Farias;Produções Cinematográficas R. F. Farias;RJ;dez/75;1975;620,959
+407;"""A Turma da Mônica em a Princesa e o Robô""";Maurício de Sousa;Maurício de Sousa Produções Cinematográficas;SP;jan/84;1984;616,457
+408;"""O Quarto da Viúva""";Sebastião de Souza;Misfilmes Produções Cinematográficas;SP;jul/76;1976;615,805
+409;"""Motel""";Alcino Diniz;Placine Filmes;SP;jul/75;1975;614,327
+410;"""O Estranho Vício do Dr. Cornélio""";Alberto Pieralisi;Alberto Pieralisi Filmes;RJ;dez/75;1975;613,903
+411;"""Exorcismo Negro""";José Mojica Marins;Cinedistri;SP;dez/74;1974;613,488
+412;"""Quando Elas Querem e Eles não""";Ary Fernandes;Lynx Filmes;SP;fev/76;1976;611,597
+413;"""O Shaolin do Sertão""";Halder Gomes;ATC Entretenimentos;CE;out/16;2016;610,741
+414;"""África Eterna""";Estanislau Szankovsk;Estanislau Szankovski Produções Cinematográficas;SP;nov/70;1970;597,264
+415;"""Engraçadinha""";Haroldo Marinho Barbosa;Encontro Produções Cinematográficas;RJ;set/81;1981;596,851
+416;"""Casseta e Planeta - seus Problemas Acabaram""";José Lavigne;Globo Filmes;RJ;set/06;2006;596,624
+417;"""Xuxinha e Guto contra os monstros do espaço""";Moacyr Góes e Clewerson Saremba;Diler & Associados;RJ;dez/05;2005;596,218
+418;"""Vips""";Toniko Melo;O2 Cinema Ltda.;SP;mar/11;2011;593,855
+419;"""O Dia das Profissionais""";Rajá de Aragão;Cobrafilmes;SP;ago/76;1976;593,106
+420;"""Meu Tio Matou um Cara""";Jorge Furtado;Casa de Cinema de Porto Alegre;RS;dez/04;2004;591,12
+421;"""As Escandalosas""";Miguel Borges;Futurama Cinematográfica;RJ;ago/70;1970;590,571
+422;"""República dos Assassinos""";Miguel Faria Jr;Roma Filmes do Brasil;RJ;nov/79;1979;588,026
+423;"""Elas São do Baralho""";Silvio de Abreu;Cinedistri;SP;set/77;1977;587,005
+424;"""Palácio de Vênus""";Ody Fraga;Maspe Filmes;SP;mar/81;1981;586,642
+425;"""Tô na tua, ô Bicho""";Raul Araujo;Trevo Produções e Promoções;SP;set/71;1971;586,076
+426;"""Rancho Fundo""";Osvaldo de Oliveira;Servicine;SP;mai/71;1971;582,517
+427;"""Pensionato das Vigaristas""";Osvaldo de Oliveira;Produções Cinematográficas Galante;SP;dez/77;1977;581,13
+428;"""Com um Grilo na Cama""";Gilvan Pereira;Gilvan Pereira Filmes;RJ;jan/76;1976;580,971
+429;"""O Candidato Honesto 2""";Roberto Santucci ;Camisa Listrada;RJ;ago/18;2018;580,568
+430;"""24 Horas de Sexo Explícito """;José Mojica Marins;Fotocena Filmes;SP;mai/85;1985;577,022
+431;"""Desejo Selvagem - Massacre no Pantanal""";David Cardoso;Dacar Produções Cinematográficas;SP;set/79;1979;575,473
+432;"""Sede de Amar/ Capuzes Negros""";Carlos Reichenbach;Nefer Produções Cinematográficas;SP;fev/79;1979;574,435
+433;"""As Mulheres do Sexo Violento""";Francisco Cavalcanti;NTM Produtora e Distribuidora de Filmes;SP;nov/76;1976;572,963
+434;"""Embalos Alucinantes / Troca de Casais""";José Miziara;Cinedistri;SP;jun/79;1979;571,823
+435;"""Amor em Quatro Tempos""";Vander Sílvio;Jonas Garret Produções Cinematográficas;SP;set/70;1970;570,971
+436;"""As Garimpeiras do Sexo""";José Vedovato;Dail Produções Cinematográficas;SP;jun/77;1977;570,842
+437;"""Tara das Cocotas na Ilha do Pecado""";Antonio Bonacin Thomé;Interlab Som e Imagem;SP;ago/80;1980;570,48
+438;"""Era uma Vez...""";Breno Silveira;Conspiração Filmes;RJ;jul/08;2008;570,47
+439;"""Bacanal das Colegiais""";Juan Bajon;Brasil Internacional Cinematográfica;SP;set/83;1983;568,138
+440;"""Karina, Objeto de Prazer""";Jean Garret;Brasil Internacional Cinematográfica;SP;ago/72;1972;567,244
+441;"""Adultério, as Regras do Jogo""";Ody Fraga;Regino Filmes;SP;fev/75;1975;567,049
+442;"""Oh! Rebuceteio! """;Cláudio Cunha;Cláudio Cunha Produções Cinematográficas;SP;out/84;1984;566,93
+443;"""Mais Forte que o Mundo - A História de José Aldo""";Afonso Poyart;"Black Maria; Paris Produções";SP;jun/16;2016;565,916
+444;"""Beijo na Boca""";Paulo César Almeida;Sincrocine;RJ;nov/82;1982;562,851
+445;"""A Menina do Lado""";Alberto Salvá;Alberto Salvá Produções Artísticas;RJ;1987;1987;562,365
+446;"""Sete Mulheres para um Homem Só""";Mozael Silveira;Brasecran;SP;jan/77;1977;560,035
+447;"""Elis""";Hugo Prata;Bravura Cinematográfica;SP;nov/16;2016;559,862
+448;"""Um Tio Quase Perfeito""";Pedro Antônio;Morena Filmes;RJ;jun/17;2017;559,584
+449;"""Eu fico loko""";Bruno Garotti;Ananã Produções;RJ;jan/17;2017;559,431
+450;"""Jango""";Silvio Tendler;Caliban Produções Cinematográficas;RJ;mar/84;1984;558,313
+451;"""Ladrão de Bagdá, o Magnífico""";Victor Lima;Victor Éboli Produções Cinematográficas;RJ;dez/75;1975;557,13
+452;"""Boneca Cobiçada """;Raffaele Rossi;Panther's Cine Som;SP;dez/80;1980;556,351
+453;"""A Ilha das Cangaceiras Virgens""";Roberto Mauro;Manaus Filmes;SP;jun/76;1976;552,485
+454;"""Dedé Mamata""";Dodô Brandão;CDK;RJ;1988;1988;550,786
+455;"""Os Garotos Virgens de Ipanema""";Osvaldo de Oliveira;Servicine;SP;mai/73;1973;547,454
+456;"""Bacanal do Terceiro Grau """;Arlindo Ponzio;Ponzio Produções Cinematográficas;SP;dez/81;1981;546,535
+457;"""A Mulher que Inventou o Amor""";Jean Garret;E. C. Distribuidora e Importadora Cinematográfica;SP;out/80;1980;546,007
+458;"""Bem Casados""";Aluízio Abranches;Lama Filmes LTDA;RJ;dez/15;2015;545,829
+459;"""Sexo Proibido """;Antonio Meliande;Estanislau Szankovski Produções Cinematográficas;SP;jul/84;1984;545,643
+460;"""O Porão das Condenadas""";Francisco Cavalcanti;Platéia Filmes;SP;out/79;1979;544,463
+461;"""O Poderoso Garanhão""";Antonio Bonacin Thomé;E. C. Distribuidora e Importadora Cinematográfica;SP;dez/73;1973;544,277
+462;"""Taradas no Cio""";Roberto Mauro;Adra Produtora de Filmes;SP;fev/84;1984;542,762
+463;"""Bandido, a Fúria do Sexo""";David Cardoso;Dacar Produções Cinematográficas;SP;fev/78;1978;541,901
+464;"""Tati a Garota""";Bruno Barreto;LC Barreto;RJ;abr/73;1973;541,256
+465;"""Aqui Tarados!""";David Cardoso, John Doo, Ody Fraga;Dacar Produções Cinematográficas;SP;abr/81;1981;540,186
+466;"""Um Marido Sem .... É Como um Jardim sem Flores""";Alberto Pieralisi;Alberto Pieralisi Filmes;RJ;abr/72;1972;539,225
+467;"""Gregório Volta Para Matar""";Rubens da Silva Prado;R.S. Prado Produtora e Distribuidora;SP;nov/73;1973;536,535
+468;"""Os Imorais""";Geraldo Vietri;E. C. Distribuidora e Importadora Cinematográfica;SP;ago/79;1979;536,117
+469;"""Assim era a Atlântida""";Carlos Manga;Atlântida Cinematográfica;RJ;out/75;1975;536,083
+470;"""Golpe Sexy""";Gyula Koslovary;Factor 7;SP;mai/76;1976;534,369
+471;"""O Fraco do Sexo Forte""";Osiris Parcifal de Figueroa;Osiris Parcifal de Figueroa Cinemas e Diversões;RJ;mar/75;1975;534,125
+472;"""As Gatinhas""";Astolfo Araujo;Servicine;SP;out/70;1970;533,213
+473;"""Feliz Ano Velho""";Roberto Gervitz;Tatu Filmes;SP;1987;1987;532,756
+474;"""Turma da Mônica em uma Aventura no Tempo""";Maurício de Sousa;Diler & Associados;RJ;fev/07;2007;531,656
+475;"""Karla Sedenta de Amor""";Ismar Porto;Brasecran;SP;set/74;1974;531,395
+476;"""Mais ou Menos Virgem""";Mozael Silveira;Urânio Filmes;SP;dez/74;1974;529,742
+477;"""Chumbo Quente""";Clery Cunha;Profilbrás Cinematográfica;SP;abr/78;1978;529,448
+478;"""Os Depravados""";Tony Vieira;Mauri de Oliveira Produtora e Distribuidora de Filmes;SP;dez/78;1978;527,147
+479;"""Ainda Agarro esse Machão""";Edward Freund;Brasecran;SP;dez/75;1975;526,941
+480;"""O Grande Gozador""";Victor Di Mello;Bennio Produções Cinematográficas;RJ;set/72;1972;526,689
+481;"""Diário de uma Prostituta""";Edward Freund;Edward Freund Produções Cinematográficas;SP;jun/80;1980;526,612
+482;"""Última Parada - 174""";Bruno Barreto;RPJ Produtores Associados / Movi & Art Produções Cinematográficas;SP;out/08;2008;526,094
+483;"""A Casa da Mãe Joana""";Hugo Carvana;MAC Comunicação e Produção;RJ;set/08;2008;525,035
+484;"""Totalmente Inocentes """;Rodrigo Bittencourt Ramos;Atitude Produções;RJ;set/12;2012;523,577
+485;"""Sexo e Violência em Búzios""";Luiz Antonio Piá;São Francisco Empreendimentos Cinematográficos;RJ;mai/78;1978;523,031
+486;"""Doce Esporte do Sexo""";Zelito Vianna;Produções Cinematográficas Mapa;RJ;fev/72;1972;522,986
+487;"""O Clube das Infiéis""";Cláudio Cunha;Kinema Filmes;SP;jun/75;1975;521,31
+488;"""Caçada Sangrenta""";Ozualdo Candeias;Dacar Produções Cinematográficas;SP;mai/74;1974;520,94
+489;"""Bossa Nova""";Bruno Barreto;Filmes do Equador;RJ;mar/00;2000;520,614
+490;"""A Vingança dos Doze""";Marcos Farias;Saga Filmes;RJ;nov/70;1970;518,135
+491;"""Colegiais e Lições de Sexo""";Juan Bajon;Brasil Internacional Cinematográfica;SP;set/80;1980;518,067
+492;"""A Infidelidade ao Alcance de Todos""";Anibal Massaini, Olivier Perroy;Cinedistri;SP;ago/72;1972;518,033
+493;"""Mulheres Violentadas""";Francisco Cavalcanti;Ribalta Filmes;SP;abr/78;1978;517,537
+494;"""As Mães de Chico Xavier""";Glauber Filho e Halder Gomes;Luz Produções Cinematográficas;CE;abr/11;2011;517,33
+495;"""Jerônimo, o Herói do Sertão""";Dionísio Azevedo, Gonzaga Blota, Maurício Sherman;TV Tupi;SP;jul/71;1971;517,255
+496;"""Pureza Proibida""";Alfredo Sternheim;RG Produções Cinematográficas;SP;dez/74;1974;516,603
+497;"""As Eróticas Profissionais""";Mozael Silveira;Reflexo Filmes;SP;dez/77;1977;515,682
+498;"""A Fêmea do Mar""";Ody Fraga;Maspe Filmes;SP;nov/80;1980;513,634
+499;"""Com a Cama na Cabeça""";Mozael Silveira;Mozael Silveira Produções Cinematográficas;SP;set/73;1973;513,44
+500;"""Reformatório das Depravadas""";Ody Fraga;Produções Cinematográficas Galante;SP;set/78;1978;512,952
+501;"""Tieta do Agreste""";Cacá Diegues;Sky Light Cinema Foto e Art;RJ;ago/96;1996;511,954
+502;"""Muito Gelo e Dois Dedos D'Água""";Daniel Filho;Lereby Produções;RJ;out/06;2006;509,098
+503;"""Efigênia Dá tudo que Tem""";Olivier Perroy;Olho Fotografia e Cinematografia;SP;ago/75;1975;508,908
+504;"""Getúlio""";João Jardim;Fogo Azul Filmes Ltda.;RJ;mai/14;2014;508,901
+505;"""Trindade É o meu Nome""";Edward Freund;Brasecran;SP;jan/74;1974;508,208
+506;"""A Virgem Camuflada""";Célio Gonçalves;Produfilmes;SP;out/79;1979;508,175
+507;"""Manicures a Domicílio""";Carlo Mossy;Vidya Produções Cinematográficas;RJ;fev/80;1980;507,829
+508;"""Álbum de Família / História Devassa""";Braz Chediak;Atlântida Cinematográfica;RJ;out/81;1981;507,377
+509;"""Como se tornar o pior aluno da escola""";Fabricio Bittar;Clube Filmes;SP;out/17;2017;506,412
+510;"""Rua Descalça""";J.B. Tanko;Produções Cinematográficas Herbert Richers;RJ;jul/81;1981;506,133
+511;"""Divórcio à Brasileira""";Ismar Porto;Kiko Filmes;SP;fev/74;1974;503,493
+512;"""A Marca da Ferradura""";Nelson Teixeira Mendes;NTM Produtora e Distribuidora de Filmes;SP;abr/71;1971;502,675
+513;"""Pintando o Sexo """;Egídio Eccio/ Jairo Carlos;JCMilfilmes;SP;mai/78;1978;500,417
