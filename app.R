@@ -3,13 +3,6 @@ library(RCurl)
 ### Filmes nacionais lançados 1995-2018
 
 
-#data_lancados <- getURL("https://github.com/viniciusbgodinho/cinema_brasileiro/blob/master/filmes%20lancados.csv")
-
-
-
-
-
-library(RCurl)
 data_lancados <- getURL("https://raw.githubusercontent.com/viniciusbgodinho/cinema_brasileiro/master/filmes%20lancados.csv", encoding = "UTF-8")
 df <- read.csv(text=data_lancados,head = F, sep = ";" , dec=',')
 
